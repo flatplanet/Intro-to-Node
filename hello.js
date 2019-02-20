@@ -19,7 +19,7 @@ http.createServer(function (req, res) {
 		return res.end();
 	});
 	var port = process.env.PORT
-}).listen(var port);
+}).listen(port);
 
 
 console.log("Server Listening on Port 8080...");
