@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "10.15.0",
+  "description": "Simple Web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flatplanet/Intro-to-Node.git"
+  },
+  "author": "John Elder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flatplanet/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/flatplanet/Intro-to-Node#readme"
+}
